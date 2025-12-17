@@ -11,7 +11,7 @@
     <br>
     <strong>Favorite Projects:</strong>
     <ul style="margin:8px 0 8px 20px;">
-      <li>Inflation-adjusted Retirement Fund Calculator</li>
+      <li>Calculadora de ISR</li>
       <li>Invoice Manager with Gmail API integration</li>
     </ul>
     <strong>Interests:</strong> Automation, Business Intelligence
