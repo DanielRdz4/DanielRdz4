@@ -9,9 +9,8 @@
   <div style="font-size:1em;color:#323e4d;">
     <strong>Top Skills:</strong> Analytical thinking, Python, Power Query (Microsoft 365)
     <br>
-    <strong>Favorite Projects:</strong>
+    <strong>Favorite Project:</strong>
     <ul style="margin:8px 0 8px 20px;">
-      <li>Calculadora de ISR</li>
       <li>Invoice Manager with Gmail API integration</li>
     </ul>
     <strong>Interests:</strong> Automation, Business Intelligence
