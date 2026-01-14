@@ -7,7 +7,7 @@
   </div>
   <hr style="margin:18px 0 12px 0;border:0;border-top:1px solid #e2e8f0;">
   <div style="font-size:1em;color:#323e4d;">
-    <strong>Top Skills:</strong> Analytical thinking, Python, Power Query (Microsoft 365)
+    <strong>Top Skills:</strong> Analytical thinking, Python, Power Query (Microsoft 365), SQL (MySQL)
     <br>
     <strong>Favorite Project:</strong>
     <ul style="margin:8px 0 8px 20px;">
