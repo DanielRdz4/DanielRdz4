@@ -1,7 +1,7 @@
 
   <div>
     <h2 style="margin:0;font-size:1.4em;color:#212a38;">Daniel Rodríguez</h2>
-    <div style="color:#4371c4;font-weight:500;font-size:1em;">Chemical Engineer & Digital Transformation Auditor</div>
+    <div style="color:#4371c4;font-weight:500;font-size:1em;">Chemical Engineer & Bussines inteligence analyst</div>
     <div style="font-size:0.94em;color:#7b8794;">Pursuing a Master's degree in Administration @ EGAII</div>
   </div>
   </div>
